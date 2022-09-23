@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/MichaelOmoniyi/Testmonial-sections-using-Css-grid)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://michaelomoniyi.github.io/Testmonial-sections-using-Css-grid/)
 
 ## My process
 
@@ -88,5 +88,3 @@ I'd love to master the use of Css Grid better.
 - Website - [Michael Omoniyi](https://www.your-site.com)
 - Frontend Mentor - [@MichaelOmoniyi](https://www.frontendmentor.io/profile/MichaelOmoniyi)
 - Twitter - [@Omons_Mikel](https://twitter.com/Omons_Mikel)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
