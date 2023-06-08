@@ -157,7 +157,7 @@ body{
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
-@media (min-width: 1440px) {
+@media (min-width: 1094px) {
     .testmonialContainer{
         display: grid;
         grid-template-areas: "a a b e" "c d d e";
